@@ -24,7 +24,7 @@ The dataset used in this project (`salary2.csv`) contains information about empl
 The script generates visualizations, including scatter plots of the actual data points, the SVR prediction line, and a heatmap showing the correlation between features.
 
 ## Contributors
-- Varshith Gaddam(https://github.com/your_username)
+- Varshith Gaddam()
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
