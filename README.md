@@ -5,7 +5,7 @@ This project utilizes Support Vector Regression (SVR) to predict salaries based 
 
 ## Dataset
 The dataset used in this project (`salary2.csv`) contains information about employees' position levels and corresponding salaries.
-something is fis
+something is 
 
 ## Setup
 1. Clone the repository to your local machine.
