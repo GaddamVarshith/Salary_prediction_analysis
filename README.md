@@ -15,7 +15,7 @@ The dataset used in this project (`salary2.csv`) contains information about empl
 ## Files
 - `salary_prediction.py`: Main Python script containing the code for data preprocessing, model training, prediction, and visualization.
 - `salary2.csv`: Dataset used in the project.
-- `README.md`: Documentation file (you're currently reading it)
+- `README.md`: Documentation file (you're currently reading it).
 
 ## Usage
 1. Run the `salary_prediction.py` script to execute the entire process.
