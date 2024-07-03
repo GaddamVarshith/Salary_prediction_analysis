@@ -4,7 +4,7 @@
 This project utilizes Support Vector Regression (SVR) to predict salaries based on position levels. It includes data preprocessing, model training, prediction, and visualization using Python libraries like NumPy, pandas, Matplotlib, and Seaborn.
 
 ## Dataset
-The dataset used in this project (`salary2.csv`) contains information about employees' position levels and corresponding salaries.
+The dataset used in this project (`salary2.csv`) contains information about employees' position levels and corresponding salaries
 
 
 ## Setup
