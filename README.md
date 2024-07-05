@@ -19,7 +19,7 @@ The dataset used in this project (`salary2.csv`) contains information about empl
 
 ## Usage
 1. Run the `salary_prediction.py` script to execute the entire process.
-2. Adjust parameters, such as the file path or SVR kernel, as needed.
+2. Adjust parameters, such as the file path or SVR kernel, as needed
 
 ## Results
 The script generates visualizations, including scatter plots of the actual data points, the SVR prediction line, and a heatmap showing the correlation between features.
