@@ -22,7 +22,7 @@ The dataset used in this project (`salary2.csv`) contains information about empl
 2. Adjust parameters, such as the file path or SVR kernel, as needed.
 
 ## Results
-The script generates visualizations, including scatter plots of the actual data points, the SVR prediction line, and a heatmap showing the correlation between features.
+The script generates visualizations, including scatter plots of the actual data points, the SVR prediction line, and a heatmap showing the correlation between features
 
 ## Contributors
 - Varshith Gaddam( https://github.com/GaddamVarshith )
