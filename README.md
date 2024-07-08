@@ -10,8 +10,7 @@ The dataset used in this project (`salary2.csv`) contains information about empl
 ## Setup
 1. Clone the repository to your local machine.
 2. Install the required Python packages using pip:
-3. Run the `salary_prediction.py` script.
-
+3. Run the `salary_prediction.py` script
 ## Files
 - `salary_prediction.py`: Main Python script containing the code for data preprocessing, model training, prediction, and visualization.
 - `salary2.csv`: Dataset used in the project.
